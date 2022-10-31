@@ -1,53 +1,60 @@
 {
   "hotels": [
     {
-      "name": "Oyo Hotel",
+      "name": "Bellini Suites at Presidio Lakefront",
       "ratings": "3.4",
       "visits": "0",
       "completedBookings": "0",
       "draftBookings": "0",
-      "tags": "freeWifi",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": "2000/ per night.    2-4 pax",
+      "description": "All our rooms are elegantly furnished with handmade furniture include luxury en-suite facilities with complimentary amenities pack, flat screen LCD TV, tea/coffee making facilities, fan, hairdryer and the finest pure white linen and towels.  ",
       "imageUrl": "https://www.softwaresuggest.com/blog/wp-content/uploads/2018/11/hotel-wifi-696x278.png"
     },
     {
-      "name": "Abc Hotel",
+      "name": "Azure",
       "ratings": "2.4",
       "visits": "0",
       "completedBookings": "0",
       "draftBookings": "0",
-      "tags": "openView",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": "3000/ per night.     2-4 pax",
+      "description": " The Standard Room comprises of 1 Double Bed or 2 Twin Beds, 2 Bedside Tables, a Desk & Chair. The room is furnished with wall to wall carpeting, trendy furnishings and a balcony. Our ultramodern glass bathroom is equipped with hairdryer, magnifying shaving and make up mirror as well as all the amenities you could possible need during your stay.
+A Complimentary Bottle of Wine, Fresh Fruit and Mineral Water, are provided on arrival. Electric current: 220 Volts. Smoking rooms & inter-connecting rooms are also available..",
       "imageUrl": "https://image3.mouthshut.com/images/imagesp/925752868s.jpg"
     },
     {
-      "name": "Mahesh Hotel",
+      "name": "The staycation Boutique rooms",
       "ratings": "5.0",
       "visits": "0",
       "completedBookings": "0",
       "draftBookings": "0",
-      "tags": "nearMetro",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": "1999/ per night.     1-2 pax",
+      "description": " The Staycation - Boutique rooms features a nightclub and puts you 5.8 mi (9.3 km) from SM Mall of Asia and 5.3 mi (8.5 km) from U.S. Embassy. Guests looking for a bite to eat can check out the 3 restaurants, and the bar/lounge is the perfect spot to grab a drink at the end of the day. Also, this hotel is 5.3 mi (8.5 km) from Resorts World Manila and 5.4 mi (8.7 km) from Manila Ocean Park. Fellow travelers say good things about the comfortable beds and helpful staff. ",
       "imageUrl": "https://images.thrillophilia.com/image/upload/s--XDUXuwKH--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/040/405/original/1566992957_the_serai_chikmagalur.jpg.jpg"
     },
     {
-      "name": "Jagas Hotel",
+      "name": "Wind Residences",
       "ratings": "4.0",
       "visits": "0",
       "completedBookings": "0",
       "draftBookings": "0",
-      "tags": "openView\necoFriendly",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": "3000/ per night.     2-4 pax",
+      "description": "The Staycation - Wind residences is located in Manila, a 15-minute walk from Power Plant Mall and provides air-conditioned accommodations with free WiFi, as well as access to a terrace.
+
+The condo hotel offers a seating area with a flat-screen TV and a private bathroom with bathrobes, slippers and bidet. Some units feature a patio and/or a balcony with garden or city views.
+
+A bicycle rental service is available at The Staycation - Wind residences.
+
+Glorietta Mall is 1.9 km from the accommodation, while Greenbelt Mall is a 19-minute walk away. The nearest airport is Ninoy Aquino International Airport, 10 km from The Staycation - Wind residences. ",
       "imageUrl": "https://www.theleela.com/img/resized-iamges/brand-page/destination-hotels/Chennai.jpg"
     },
     {
-      "name": "Krishna Hotel",
+      "name": "Rhapsody",
       "ratings": "4.5",
       "visits": "0",
       "completedBookings": "0",
       "draftBookings": "0",
-      "tags": "freeWifi\nnearMetro",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": "2500/ per night.     2-4 pax",
+      "description": "What we offer is a fully furnished, cozy and comfy 25sqm 1BR with an AC unit & ceiling fan at the living room. The bedroom has a queen size bed perfect for couples or with 2 small children. The living room has a sofa bed with 1 pull out bed for adults or children. This is perfect for a small or medium family or a group of barkada. ",
       "imageUrl": "https://images.thrillophilia.com/image/upload/s---vHa4Iie--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/140/267/original/1545484146_mp_resort-22.png.jpg?1545484146"
     }
   ]
